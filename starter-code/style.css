@@ -5,6 +5,7 @@ html {
 
 header {
   padding: 20px;
+  text-align: center;
 }
 
 .logo {
@@ -24,12 +25,18 @@ header {
 .student{
   background-color: white;
   width: 20%;
+  padding: 10px;
 }
 
 .student img{
-  width: 80%;
+  width: 90%;
 }
 
+.student h2{
+  font-size: 25px;
+  color: red;
+  text-align: center;
+}
 .photo{
   text-align: center;
 }
