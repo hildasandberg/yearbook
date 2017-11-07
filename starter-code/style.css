@@ -26,15 +26,17 @@ header {
   margin-top: 55px;
 }
 
-.yearbook{
+/*.yearbook{
   padding: 20px;
-}
+}*/
 
 .student{
   background-color: white;
-  width: 20%;
-  padding: 10px;
-  margin: 10px; 
+  width: 18%;
+  /*padding: 10px;*/
+  margin: 10px;
+  float: left;
+  padding: 2px;
 }
 
 .student img{
