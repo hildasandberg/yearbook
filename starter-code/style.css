@@ -1,6 +1,6 @@
 *{
   box-sizing: border-box;
-  } /* Star = Target everything, border box puts padding and mat*/
+  } /* Star = Targets everything, border-box puts padding on inside*/
 
 html {
   background: pink; /* For browsers that do not support gradients */
@@ -33,14 +33,11 @@ header {
 .yearbook{
   margin: auto;
   width: 90%;
-  /*margin-left: 40px;*/
-  /*margin-right: 40px;*/
 }
 
 .student{
   background-color: white;
   width: 200px;
-  /*padding: 10px;*/
   margin: 10px;
   float: left;
   padding: 10px;
@@ -56,7 +53,7 @@ header {
 
 .student h2{
   font-size: 25px;
-  color: black;
+  color: rgb(0, 31, 206);
   text-align: center;
   font-family: 'Pacifico', cursive;
   margin: 5px;
