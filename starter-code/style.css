@@ -31,9 +31,10 @@ header {
 }
 
 .yearbook{
-  text-align: center;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin: auto;
+  width: 80%;
+  /*margin-left: 40px;*/
+  /*margin-right: 40px;*/
 }
 
 .student{
